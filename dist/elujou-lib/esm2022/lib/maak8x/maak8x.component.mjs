@@ -1,0 +1,12 @@
+import { Component } from '@angular/core';
+import * as i0 from "@angular/core";
+//import { products } from '../products';
+export class Maak8xComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "17.1.3", ngImport: i0, type: Maak8xComponent, deps: [], target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "17.1.3", type: Maak8xComponent, isStandalone: true, selector: "maak8x-component", ngImport: i0, template: "<br>\r\n\r\n<p>P\u00C4RNU ASENDUS</p>\r\n<!--iframe width=\"100%\" height=\"750\" src=\"https://arenduskeskus.eu/\"></iframe-->\r\n\r\n<br>", styles: [""] }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "17.1.3", ngImport: i0, type: Maak8xComponent, decorators: [{
+            type: Component,
+            args: [{ selector: 'maak8x-component', standalone: true, template: "<br>\r\n\r\n<p>P\u00C4RNU ASENDUS</p>\r\n<!--iframe width=\"100%\" height=\"750\" src=\"https://arenduskeskus.eu/\"></iframe-->\r\n\r\n<br>" }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFhazh4LmNvbXBvbmVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2VsdWpvdS1saWIvc3JjL2xpYi9tYWFrOHgvbWFhazh4LmNvbXBvbmVudC50cyIsIi4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2VsdWpvdS1saWIvc3JjL2xpYi9tYWFrOHgvbWFhazh4LmNvbXBvbmVudC5odG1sIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sRUFBRSxTQUFTLEVBQUUsTUFBTSxlQUFlLENBQUM7O0FBRTFDLHlDQUF5QztBQVF6QyxNQUFNLE9BQU8sZUFBZTs4R0FBZixlQUFlO2tHQUFmLGVBQWUsNEVDVjVCLDZJQUtJOzsyRkRLUyxlQUFlO2tCQU4zQixTQUFTOytCQUNFLGtCQUFrQixjQUdoQixJQUFJIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XHJcblxyXG4vL2ltcG9ydCB7IHByb2R1Y3RzIH0gZnJvbSAnLi4vcHJvZHVjdHMnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgc2VsZWN0b3I6ICdtYWFrOHgtY29tcG9uZW50JyxcclxuICB0ZW1wbGF0ZVVybDogJy4vbWFhazh4LmNvbXBvbmVudC5odG1sJyxcclxuICBzdHlsZVVybHM6IFsnLi9tYWFrOHguY29tcG9uZW50LnNjc3MnXSxcclxuICBzdGFuZGFsb25lOiB0cnVlXHJcbn0pXHJcbmV4cG9ydCBjbGFzcyBNYWFrOHhDb21wb25lbnQge1xyXG4gIFxyXG59IiwiPGJyPlxyXG5cclxuPHA+UMOEUk5VIEFTRU5EVVM8L3A+XHJcbjwhLS1pZnJhbWUgd2lkdGg9XCIxMDAlXCIgaGVpZ2h0PVwiNzUwXCIgc3JjPVwiaHR0cHM6Ly9hcmVuZHVza2Vza3VzLmV1L1wiPjwvaWZyYW1lLS0+XHJcblxyXG48YnI+Il19

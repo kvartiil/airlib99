@@ -1,0 +1,40 @@
+import { OnInit } from '@angular/core';
+import * as i0 from "@angular/core";
+export declare class LahteinfoComponent implements OnInit {
+    title: string;
+    content1: string;
+    content2: string;
+    content3: string;
+    content4: string;
+    content5: string;
+    content6: string;
+    content1a: string;
+    content1b: string;
+    sectorNo: string;
+    sectParing: string;
+    content2a: string;
+    content3a: string;
+    content3b: string;
+    sizeNo: string;
+    countNo: string;
+    content6a: string;
+    content6b: string;
+    constructor();
+    paring(): string;
+    sektorArray: any;
+    oigeSektor: any;
+    keerukam(): void;
+    suurusArray: any;
+    oigeSuurus: any;
+    suurusklass(): void;
+    maakondArray: any;
+    oigeMaakond: any;
+    maakonnavalik(): void;
+    emtaktextArray: any;
+    oigeText: any;
+    emtaktextvalik(): void;
+    ngOnInit(): void;
+    static ɵfac: i0.ɵɵFactoryDeclaration<LahteinfoComponent, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<LahteinfoComponent, "lahteinfo-component", never, {}, {}, never, never, true, never>;
+}
+//# sourceMappingURL=lahteinfo.component.d.ts.map

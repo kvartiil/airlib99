@@ -1,0 +1,12 @@
+import { Component } from '@angular/core';
+import * as i0 from "@angular/core";
+//import { products } from '../products';
+export class MaakxComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "17.1.3", ngImport: i0, type: MaakxComponent, deps: [], target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "17.1.3", type: MaakxComponent, isStandalone: true, selector: "maakx-component", ngImport: i0, template: "<br>\r\n\r\n<p>ARENDUSKESKUSED ASENDUS</p>\r\n<!--iframe width=\"100%\" height=\"750\" src=\"https://www.arenduskeskused.ee\"></iframe-->\r\n\r\n<br>", styles: [""] }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "17.1.3", ngImport: i0, type: MaakxComponent, decorators: [{
+            type: Component,
+            args: [{ selector: 'maakx-component', standalone: true, template: "<br>\r\n\r\n<p>ARENDUSKESKUSED ASENDUS</p>\r\n<!--iframe width=\"100%\" height=\"750\" src=\"https://www.arenduskeskused.ee\"></iframe-->\r\n\r\n<br>" }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFha3guY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vcHJvamVjdHMvZWx1am91LWxpYi9zcmMvbGliL21hYWt4L21hYWt4LmNvbXBvbmVudC50cyIsIi4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2VsdWpvdS1saWIvc3JjL2xpYi9tYWFreC9tYWFreC5jb21wb25lbnQuaHRtbCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsU0FBUyxFQUFFLE1BQU0sZUFBZSxDQUFDOztBQUUxQyx5Q0FBeUM7QUFRekMsTUFBTSxPQUFPLGNBQWM7OEdBQWQsY0FBYztrR0FBZCxjQUFjLDJFQ1YzQix1SkFLSTs7MkZES1MsY0FBYztrQkFOMUIsU0FBUzsrQkFDRSxpQkFBaUIsY0FHZixJQUFJIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XHJcblxyXG4vL2ltcG9ydCB7IHByb2R1Y3RzIH0gZnJvbSAnLi4vcHJvZHVjdHMnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgc2VsZWN0b3I6ICdtYWFreC1jb21wb25lbnQnLFxyXG4gIHRlbXBsYXRlVXJsOiAnLi9tYWFreC5jb21wb25lbnQuaHRtbCcsXHJcbiAgc3R5bGVVcmxzOiBbJy4vbWFha3guY29tcG9uZW50LnNjc3MnXSxcclxuICBzdGFuZGFsb25lOiB0cnVlXHJcbn0pXHJcbmV4cG9ydCBjbGFzcyBNYWFreENvbXBvbmVudCB7XHJcbiAgXHJcbn0iLCI8YnI+XHJcblxyXG48cD5BUkVORFVTS0VTS1VTRUQgQVNFTkRVUzwvcD5cclxuPCEtLWlmcmFtZSB3aWR0aD1cIjEwMCVcIiBoZWlnaHQ9XCI3NTBcIiBzcmM9XCJodHRwczovL3d3dy5hcmVuZHVza2Vza3VzZWQuZWVcIj48L2lmcmFtZS0tPlxyXG5cclxuPGJyPiJdfQ==

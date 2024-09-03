@@ -1,0 +1,43 @@
+import { OnInit } from '@angular/core';
+import * as i0 from "@angular/core";
+export declare class VarvidComponent implements OnInit {
+    model1y1: number;
+    model1y2: number;
+    model1y3: number;
+    effmadal: any;
+    effkeskmine: any;
+    effkorge: any;
+    effmadalNumber: number;
+    effkeskmineNumber: number;
+    effkorgeNumber: number;
+    maksmadal: any;
+    makskeskmine: any;
+    makskorge: any;
+    maksmadalNumber: number;
+    makskeskmineNumber: number;
+    makskorgeNumber: number;
+    voimmadal: any;
+    voimkeskmine: any;
+    voimkorge: any;
+    voimmadalNumber: number;
+    voimkeskmineNumber: number;
+    voimkorgeNumber: number;
+    tasumadal: any;
+    tasukeskmine: any;
+    tasukorge: any;
+    tasumadalNumber: number;
+    tasukeskmineNumber: number;
+    tasukorgeNumber: number;
+    toomadal: any;
+    tookeskmine: any;
+    tookorge: any;
+    toomadalNumber: number;
+    tookeskmineNumber: number;
+    tookorgeNumber: number;
+    constructor();
+    ngOnInit(): void;
+    kirjutaVarvid(): void;
+    static ɵfac: i0.ɵɵFactoryDeclaration<VarvidComponent, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<VarvidComponent, "varvid-component", never, {}, {}, never, never, true, never>;
+}
+//# sourceMappingURL=varvid.component.d.ts.map

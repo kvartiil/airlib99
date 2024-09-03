@@ -1,0 +1,48 @@
+import * as i0 from "@angular/core";
+export declare class LahtealumineComponent {
+    effComp: any;
+    effComp2: any;
+    makseComp: any;
+    makseComp2: any;
+    voimeComp: any;
+    voimeComp2: any;
+    tasuComp: any;
+    tasuComp2: string;
+    tooComp: any;
+    tooComp2: string;
+    constructor();
+    callFun(): any;
+    key: string;
+    efText: string;
+    getEfektText(): string;
+    key2: string;
+    mkText: string;
+    getMakseText(): string;
+    key3: string;
+    vmText: string;
+    getVoimeText(): string;
+    key4: string;
+    tsText: string;
+    getTasuvusText(): string;
+    key5: string;
+    tjText: string;
+    getToojoudText(): string;
+    efectTxt: string;
+    efectNo: number;
+    efektVarv(): number;
+    mksTxt: string;
+    mksNo: number;
+    makseVarv(): number;
+    tjTxt: string;
+    tjNo: number;
+    toojoudVarv(): number;
+    vmTxt: string;
+    vmNo: number;
+    voimVarv(): number;
+    taTxt: string;
+    taNo: number;
+    tasuvVarv(): number;
+    static ɵfac: i0.ɵɵFactoryDeclaration<LahtealumineComponent, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<LahtealumineComponent, "lahtealumine-component", never, {}, {}, never, never, true, never>;
+}
+//# sourceMappingURL=lahtealumine.component.d.ts.map
